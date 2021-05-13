@@ -10,7 +10,6 @@ public class RemakeProjectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RemakeProjectApplication.class, args);
 
-		Usuario user = new Usuario();
 
 	}
 
